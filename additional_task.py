@@ -7,4 +7,4 @@ if len(digits) == 6:
     if sum_first == sum_last:
         print("Счастливый билет!")
     else:
-        print("Обычный билет")
+        print("Несчастливый билет")
